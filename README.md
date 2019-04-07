@@ -7,9 +7,9 @@ Click on the links below to open these notebooks in Colaboratory
 
 * [colab1_MNIST.ipynb](https://colab.research.google.com/github/simecek/from0toheroin2h/blob/master/colab1_MNIST.ipynb) - Training of a simple multi-layer neural network on MNIST dataset
 
-* [colab2_pets.ipynb](https://colab.research.google.com/github/simecek/from0toheroin2h/blob/master/colab2_pets.ipynb)- ResNet34 model for transfer learning on [Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/publications/2012/parkhi12a/parkhi12a.pdf) (12 cat and 25 dogs breeds)
+* [colab2_pets.ipynb](https://colab.research.google.com/github/simecek/from0toheroin2h/blob/master/colab2_pets.ipynb) - ResNet34 model for transfer learning on [Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/publications/2012/parkhi12a/parkhi12a.pdf) (12 cat and 25 dogs breeds)
 
-* [colab3_dataset_from_Google_Images.ipynb](https://colab.research.google.com/github/simecek/from0toheroin2h/blob/master/colab3_dataset_from_Google_Images.ipynb)- Now, it is your turn to download images and train your network.
+* [colab3_dataset_from_Google_Images.ipynb](https://colab.research.google.com/github/simecek/from0toheroin2h/blob/master/colab3_dataset_from_Google_Images.ipynb) - Now, it is your turn to download images and train your network
 
 ### Acknowledgements
 
