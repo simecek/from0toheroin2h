@@ -11,6 +11,10 @@ Click on the links below to open these notebooks in Colaboratory
 
 * [colab3_dataset_from_Google_Images.ipynb](https://colab.research.google.com/github/simecek/from0toheroin2h/blob/master/colab3_dataset_from_Google_Images.ipynb) - Now, it is your turn to download images and train your network
 
+### Keras course
+
+If you are for any reason interested rather in **keras / TensorFlow**, check out similar keras based materials from our [PyConCZ workshop](https://github.com/karlafej/keras_pyconCZ).
+
 ### Acknowledgements
 
 Most of our materials build on [fastai library](https://docs.fast.ai/) and awesone [Practical Deep Learning for Coders](https://course.fast.ai/) (notebooks 2-3 are practically taken from the course). The first notebook is highly inspired by keras MNIST example from Tensorflow Dev Summit 2018. We would like to thank fastai and pytorch creators for giving us sucha powerful tool and Google Colaboratory for GPU runtime.
